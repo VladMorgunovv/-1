@@ -25,5 +25,4 @@ triangle = input("Введите H и L: ")
 
 h = float(triangle.split(" ")[0])
 l = float(triangle.split(" ")[1])
-
 print("Итого площадь треугольника равна: ", h*l/2)
