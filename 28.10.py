@@ -1,11 +1,8 @@
-s = input().replace("3", "" and )
-print(s)
-# num =""
-# for i in s:
-#     if i !="6":
-#         num += i
-# print(int(num))
+# from os import replace
+from os import replace
 
+s = input().replace("3", "", "6","")
+print(a)
 
 
 
